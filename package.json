@@ -1,5 +1,5 @@
 {
-  "name": "mcp-mail-organizer",
+  "name": "@neomody77/mcp-mail-organizer",
   "version": "1.1.0",
   "description": "MCP server for organizing and managing email operations with atomic tools",
   "main": "dist/index.js",
