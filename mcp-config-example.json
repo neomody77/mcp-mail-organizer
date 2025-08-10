@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mail-organizer": {
+      "command": "node",
+      "args": ["./mcp-mail-organizer/dist/index.js", "--env-file", ".mail.env"],
+      "cwd": "/Users/your-username/path/to/Assistant",
+      "env": {}
+    }
+  }
+}
